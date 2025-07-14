@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    background-image: url("images/16264680_v933-audi-39.jpg");
+    background-size: contain;
+    background-attachment: fixed;
+    
+    text-align: center;
+}
+h1{ 
+    text-align: center;
+    color: black;
+    text-shadow: 5px 0px 25px black;
+    font-size: 100px;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+}
